@@ -473,10 +473,9 @@ main { overflow-x: hidden; }
 }
 
 .hero-banner {
-  max-width: 100px;
-  width: 100%;
-  margin-bottom: 50px;
-  align: center;
+  max-width: 500px;
+  width: 125%;
+  margin-bottom: 30px;
 }
 
 :is(.hero-social-list, .scroll-down) { display: none; }
